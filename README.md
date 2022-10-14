@@ -12,7 +12,7 @@ DB		: INDIAN BANK
 ###  Purpose : Its will get previous month Trasnation done by given customers.
 ---------------------------------------------------------------------------------------
 
-SLNo	Done by			Date of change			Remarks
+SLNo	Done by			 Date of change			Remarks
 
 1		vishnu			jane 2, 2022			new sp
 
@@ -20,3 +20,10 @@ SLNo	Done by			Date of change			Remarks
 
 3		Aksaay			March 2,2022			modified And added.....
 ****************************************************************************************
+
+
+## Tools
+
+1. SQL Server Management Studio. 
+
+2.excel for analytics
