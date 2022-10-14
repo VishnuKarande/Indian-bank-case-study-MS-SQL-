@@ -32,6 +32,6 @@ SLNo	Done by			 Date of change			Remarks
 
 ## Tools
 
-1. SQL Server Management Studio. 
+1. SQL Server Management Studio.(v18.5)
 
 2. excel for analytics
