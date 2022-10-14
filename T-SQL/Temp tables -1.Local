@@ -1,0 +1,7 @@
+--Temp Tables
+create table #Emp
+(
+		EID		Int				primary key,
+		name	varchar(100)	not null,
+		Gender	char(10)		not null
+)
