@@ -1,11 +1,19 @@
+### Indian bank case study (MS-SQL) 
+
+#### This script created DB and a few tables to store information about Indian banks. 
+
+1. Create Database 
+2. Business Integrity Rules, 
+3. View Requirements, 
+4. Query Requirements, 
+5. Stored Requirements 
+
 # Indian-bank-case-study-MS-SQL-server
 
 
 SP_Name	: previousmonthBankStatement  
 
 Author	: Vishnu Karande
-
-Date	: Feb 3rd 2022 
 
 DB		: INDIAN BANK
 
@@ -26,4 +34,4 @@ SLNo	Done by			 Date of change			Remarks
 
 1. SQL Server Management Studio. 
 
-2.excel for analytics
+2. excel for analytics
